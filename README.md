@@ -1,1 +1,2 @@
 # Chess_Game_Application_In_Android
+Chess game application in Android is a simple android project and game. This project is all about the development of the chess game application. In this project, You can play the game by moving the set pieces. The whole project is validated in Java programming language. This project includes different images of the set pieces. Here, in this project, there are guidelines provided on playing the game.
